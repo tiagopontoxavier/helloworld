@@ -3,8 +3,11 @@ package helloworld.base;
 public class hello {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println("hello fuckin world");
+		
+		hello2();
+	}
+	public static void hello2(){
+		System.out.println("hello fuckin world");
 	}
 
 }
